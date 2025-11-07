@@ -24,21 +24,26 @@ This project aims to dynamically display product data stored in LocalStorage on 
 ⚙️ **Core Features**
 
 ✅ **Product Listing**
+
 When the page loads, products stored in LocalStorage are automatically displayed.
 
 ✅ **Add Product**
 Users can add new products by entering the name, price, description, and image through the form.
 
 ✅ **Inline Editing**
+
 Each product card can be instantly edited by clicking the ✏️ button.
 
 ✅ **Delete Product**
+
 Products can be permanently removed from LocalStorage using the 🗑️ icon.
 
 ✅ **Search Functionality**
+
 Typing into the 🔍 search box filters products by their names in real time.
 
 ✅ **Persistent Data**
+
 All operations are saved in LocalStorage, so products remain even after the page is closed and reopened.
 
 
@@ -50,6 +55,7 @@ All operations are saved in LocalStorage, so products remain even after the page
 * **DOM Manipulation** → Dynamic HTML generation
 * **Event Listeners** → Handling user interactions
 * **Template Literals** → Creating dynamic card content
+
 
 👨‍💻 **Developer’s Note**
 
