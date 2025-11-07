@@ -1,4 +1,4 @@
-***🛒 Product Cards Project***
+***🛒 PRODUCTS CARDS PROJECT***
 
 **🎯 Purpose**
 This project aims to dynamically display product data stored in LocalStorage on the screen using Bootstrap cards, and to manage these products through adding, deleting, editing, and searching operations.
