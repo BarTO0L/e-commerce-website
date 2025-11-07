@@ -28,6 +28,7 @@ This project aims to dynamically display product data stored in LocalStorage on 
 When the page loads, products stored in LocalStorage are automatically displayed.
 
 ✅ **Add Product**
+
 Users can add new products by entering the name, price, description, and image through the form.
 
 ✅ **Inline Editing**
